@@ -1,4 +1,4 @@
-https://semihdurmus.github.io/JS_CC_01_Fibonacci_Number/.
+https://semihdurmus.github.io/JS_CC_01_Fibonacci_Number/
 
 # JS_CC_01_Fibonacci_Number
 
